@@ -41,6 +41,7 @@ To run the project locally:
 
    ```bash
    git clone https://github.com/azimramadan/quiz-app.git
+   cd weather-app
    
 2. **Install Flutter Dependencies:**
 
